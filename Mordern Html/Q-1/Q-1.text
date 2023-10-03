@@ -1,0 +1,27 @@
+Q-1. List out thr feature of HTML5.
+Ans- HTML5, the fifth major revision of the Hypertext Markup Language, introduced several new features and enhancements to improve the structure, presentation, and functionality of web pages. Here is a list of some features of HTML5:
+
+1. Improved Multimeadia support- 
+    If we seen  in past of html, Html not give multimeadia support but 
+After HTML5 we get multimeadia support like audio and video which directly into webpage without any plugins. 
+
+2. Canvas element- 
+     HTML5 introduced the <canvas> element, allowing dynamic, interactive graphics to be created and manipulated within a web page. The <canvas> element provides a way for developers to draw graphics, animations, and visualizations directly in the browser using JavaScript.
+
+3.Geolocation Api-
+   HTML 5 provied API, The web application can use the Geolocation API to retrieve the user's location data. The API provides methods for obtaining latitude, longitude, altitude, accuracy, and other location-related information.
+
+4.Local Storage-
+    HTML5 introduced the localstroge API, which allows for the storage of data on the user's device,
+    improving performance and reducing the need for round-trips to the server.
+
+5.New structural elements-
+    HTML5 introduced new semantic elements such as <header>, <footer>, <nav>,  and <artical> that makes
+    it easire to structure and organize content on a webpage.
+
+6. Form improvements-
+    HTML5 introduced several improvements to form, including new input types like date, time,and colo,
+    as well as new attributes such as requried and autofocus.
+    
+7. Accessbility improvements- HTML5 provides better support for Accessbility, including the ability to 
+provide alternative text fot images and improved support for screen reader.
